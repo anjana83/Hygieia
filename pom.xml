@@ -106,7 +106,7 @@
             <phase>validate</phase>
             <goals>
               <goal>check</goal>
-              <!-- disabled for now: -->
+              <!-- disabled for now::::::::::: -->
               <!--<goal>cpd-check</goal>-->
             </goals>
           </execution>
